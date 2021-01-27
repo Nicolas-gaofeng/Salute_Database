@@ -4,8 +4,6 @@
 
 </div>                     
 
-------
-
 
 
 ## 写在前面
@@ -56,8 +54,6 @@
 
   如果文中出现错误，请与我联系。向你敬礼！
 
-------
-
 
 
 ## 其他学习路径
@@ -99,12 +95,6 @@
 - [菜鸟学习Docsify-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Docsify)
 
 - [菜鸟学习IT路上遇到的问题](https://github.com/Nicolas-gaofeng/Salute_Problem)
-
-
-
-------
-
-
 
 ## 访问地址
 
