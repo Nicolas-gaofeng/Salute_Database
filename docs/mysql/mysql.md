@@ -101,12 +101,12 @@ MSI Installer注意有两个，这两个有什么区别呢？
 
 ### 1. 简介
 
-Navicat Premium 是一套數據庫管理工具，讓你以單一程序同時連接到 MySQL、MariaDB、SQL Server、SQLite、Oracle 和 PostgreSQL 數據庫。 此外，它與 Drizzle、OurDelta 和 Percona Server 兼容，並支持 Amazon RDS、Amazon Aurora、Amazon Redshift、SQL Azure、Oracle Cloud 和 Google Cloud 等云數據庫。
+Navicat Premium 是一套数据库管理工具，让你以单一程序同时连接到 MySQL、MariaDB、SQL Server、SQLite、Oracle 和 PostgreSQL 数据库。 此外，它与 Drizzle、OurDelta 和 Percona Server 兼容，并支持 Amazon RDS、Amazon Aurora、Amazon Redshift、SQL Azure、Oracle Cloud 和 Google Cloud 等云数据库。
 
-結合了其他 Navicat 成員的功能，Navicat Premium 支持大部份在現今數據庫管理係統中使用的功能，包括存儲過程、事件、觸發器、函數、視圖等。
-Navicat Premium 能使你快速地在各種數據庫係統間傳輸數據，或傳輸到一份指定 SQL 格式和編碼的純文本文件。計劃不同數據庫的批處理作業並在指定的時間運行。其他功能包括導入向導、導出向導、查詢創建工具、報表創建工具、數據同步、備份、工作計劃及更多。
+结合了其他 Navicat 成员的功能，Navicat Premium 支持大部分在现今数据库管理系统中使用的功能，包括存储过程、事件、触发器、函数、视图等。
+Navicat Premium 能使你快速地在各种数据库系统间传输数据，或传输到一份指定 SQL 格式和编码的純文本文件。計劃不同數據庫的批處理作業並在指定的時間運行。其他功能包括導入向導、導出向導、查詢創建工具、報表創建工具、數據同步、備份、工作計劃及更多。
 
-Navicat 的功能足以符合專業開發人員的所有需求，但是對數據庫服務器的新手來說又相儅容易學習。
+Navicat 的功能足以符合专业开发人员的所有需求，但是对数据库服务器的新手来说又相当容易学习。
 
 ### 2. 下载
 
@@ -130,7 +130,7 @@ navicat安装包 ：链接：https://pan.baidu.com/s/1KODRaKhA2pMkKYwjsqQyAw 提
 
 4. 点击navicat注冊界面的激活按钮，提示手动激活；
 
-![image-20210120024601891](C:\Users\zgf\AppData\Roaming\Typora\typora-user-images\image-20210120024601891.png)
+![image-20210127220757953](https://gitee.com/zgf1366/pic_store/raw/master/img/20210127220758.png)
 
 5. 点击手动激活，然后将得到的RequestCode复制到注册机
 
@@ -138,7 +138,7 @@ navicat安装包 ：链接：https://pan.baidu.com/s/1KODRaKhA2pMkKYwjsqQyAw 提
 
 6. 点击注册机左下方的Generate按钮，生成ActivationCode，复制粘贴到navicat的激活码框，完成激活；
 
-![image-20210120030120568](C:\Users\zgf\AppData\Roaming\Typora\typora-user-images\image-20210120030120568.png)
+![image-20210127220438934](https://gitee.com/zgf1366/pic_store/raw/master/img/20210127220439.png)
 
 7. 激活完成
 
@@ -198,6 +198,6 @@ navicat安装包 ：链接：https://pan.baidu.com/s/1KODRaKhA2pMkKYwjsqQyAw 提
 
 ## 五、问题
 
-如果遇到问题，移动到这个文章有每一个问题的解决办法：
+如果遇到问题，移步到这个文章有每一个问题的解决办法：
 
 https://zhuanlan.zhihu.com/p/37851412
