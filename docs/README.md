@@ -50,9 +50,12 @@
 > 编程
 
 - [菜鸟学习Java-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Java)
+
 - [菜鸟学习Python-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Python)
 
 - [菜鸟学习算法-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Algorithm)
+
+- [菜鸟学习数据库-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Database)
 
 - [菜鸟学习Node.js-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Nodejs)
 
